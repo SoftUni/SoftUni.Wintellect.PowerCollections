@@ -30,7 +30,7 @@ Dont' forget to import the namespace `Wintellect.PowerCollections` at the start 
 using Wintellect.PowerCollections;
 ```
 
-### Wintellect.PowerCollections.Bag<T>: Example
+### Wintellect.PowerCollections.Bag\<T>: Example
 ```cs
 Console.WriteLine("Wintellect.PowerCollections.Bag<T> example:");
 Console.WriteLine("Elements will enter in the bag with duplicates.");
@@ -54,7 +54,7 @@ Deleted the first `C#` occurence: True
 Elements: {dotnet,C#,C#,programming,Visual Studio}
 ```
   
-### Wintellect.PowerCollections.OrderedBag<T>: Example
+### Wintellect.PowerCollections.OrderedBag\<T>: Example
 ```cs
 Console.WriteLine("Wintellect.PowerCollections.OrderedBag<T> example:");
 Console.WriteLine("Elements will enter in the bag with duplicates, in ascending order.");
@@ -80,7 +80,7 @@ Elements: {C#,C#,dotnet,programming,Visual Studio}
 Range[`d`...`q`]: {dotnet,programming}
 ```
   
-### Wintellect.PowerCollections.Set<T>: Example
+### Wintellect.PowerCollections.Set\<T>: Example
 ```cs
 Console.WriteLine("Wintellect.PowerCollections.Set<T> example:");
 Console.WriteLine("Duplicates will be skipped when adding elements.");
@@ -103,7 +103,7 @@ Deleted the first `C#` occurence: True
 Elements: {dotnet,programming,Visual Studio}
 ```
 
-### Wintellect.PowerCollections.OrderedSet<T>: Example
+### Wintellect.PowerCollections.OrderedSet\<T>: Example
 ```cs
 Console.WriteLine("Wintellect.PowerCollections.OrderedSet<T> example:");
 Console.WriteLine("Duplicates will be skipped when adding elements. Elements will maintain ascending order.");
@@ -129,7 +129,7 @@ Elements: {dotnet,programming,Visual Studio}
 Range[`d`...`q`]: {dotnet,programming}
 ```
 
-### Wintellect.PowerCollections.BigList<T>: Example
+### Wintellect.PowerCollections.BigList\<T>: Example
 ```cs
 Console.WriteLine("Wintellect.PowerCollections.BigList<T> example:");
 Console.WriteLine("Elements will retain their insertion order.");
@@ -159,7 +159,7 @@ Added `TypeScript` at position 1
 Elements: {programming,TypeScript,C#,dotnet,C#,C#}
 ```
 
-### Wintellect.PowerCollections.Deque<T>: Example
+### Wintellect.PowerCollections.Deque\<T>: Example
 ```cs
 Console.WriteLine("Wintellect.PowerCollections.Deque<T> example:");
 Console.WriteLine("Elements will retain their insertion order. Elements can be added at both ends of the deque.");
@@ -185,7 +185,7 @@ Removed element from back: C#
 Elements: {Visual Studio,programming,C#,dotnet}
 ```
 
-### Wintellect.PowerCollections.MultiDictionary<K, V>: Example
+### Wintellect.PowerCollections.MultiDictionary\<K, V>: Example
 ```cs
 Console.WriteLine("Wintellect.PowerCollections.MultiDictionary<K, V> example:");
 Console.WriteLine("Map keys to multiple values. Keys order is unpredictable. Values keep their insertion order.");
@@ -208,7 +208,7 @@ Removed element `Maria -> 4`: True
 Elements: {Maria->(5,4,5,6), Peter->(5,6,6), George->(6,6,5,5)}
 ```
 
-### Wintellect.PowerCollections.OrderedDictionary<K, V>: Example
+### Wintellect.PowerCollections.OrderedDictionary\<K, V>: Example
 ```cs
 Console.WriteLine("Wintellect.PowerCollections.OrderedDictionary<K, V> example:");
 Console.WriteLine("Map keys to values (no duplicates). Keys are ordered in ascending order.");
@@ -233,7 +233,7 @@ Removed element `Maria`: True
 Elements: {George->7.6, Paula->9.2, Peter->8.5, Steve->7.7}
 ```
 
-### Wintellect.PowerCollections.OrderedMultiDictionary<K, V>: Example
+### Wintellect.PowerCollections.OrderedMultiDictionary\<K, V>: Example
 ```cs
 Console.WriteLine("Wintellect.PowerCollections.OrderedMultiDictionary<K, V> example:");
 Console.WriteLine("Map keys to multiple values. Keys are ordered in ascending order. Values keep their insertion order.");
