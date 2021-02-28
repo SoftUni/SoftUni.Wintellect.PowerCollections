@@ -1,10 +1,13 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wintellect.PowerCollections", "Source\Wintellect.PowerCollections.csproj", "{A1B75B62-5F43-4614-A965-DC88DFC4BF60}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wintellect.PowerCollections.Tests", "Tests\Wintellect.PowerCollections.Tests.csproj", "{BB0CA7EB-CDAD-4B40-8DA6-17107EDD5E56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wintellect.PowerCollections.Examples", "Examples\Wintellect.PowerCollections.Examples.csproj", "{61F3109A-72DD-4894-B6D4-0ACC14561CBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,14 +19,14 @@ Global
 		{A1B75B62-5F43-4614-A965-DC88DFC4BF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1B75B62-5F43-4614-A965-DC88DFC4BF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1B75B62-5F43-4614-A965-DC88DFC4BF60}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1DE37150-4C28-4613-BF6B-EB002308FF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1DE37150-4C28-4613-BF6B-EB002308FF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1DE37150-4C28-4613-BF6B-EB002308FF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1DE37150-4C28-4613-BF6B-EB002308FF50}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BB0CA7EB-CDAD-4B40-8DA6-17107EDD5E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BB0CA7EB-CDAD-4B40-8DA6-17107EDD5E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB0CA7EB-CDAD-4B40-8DA6-17107EDD5E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB0CA7EB-CDAD-4B40-8DA6-17107EDD5E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F3109A-72DD-4894-B6D4-0ACC14561CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F3109A-72DD-4894-B6D4-0ACC14561CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F3109A-72DD-4894-B6D4-0ACC14561CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F3109A-72DD-4894-B6D4-0ACC14561CBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
