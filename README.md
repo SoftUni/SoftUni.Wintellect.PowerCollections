@@ -263,8 +263,8 @@ Range[`k`...`r`]: {Maria->(5,5,6), Paula->(5,6,6,6), Peter->(5,6,6)}
 
 ## SoftUni.Wintellect.PowerCollections NuGet Package
 
-This package was initially published in 2015 for the purpose of the Software University's data structures and algorithms classes at SoftUni, but it can be used a general-purpose data structure library for any .NET project.
+The package `SoftUni.Wintellect.PowerCollections` was initially published in 2015 for the purpose of the Software University's data structures and algorithms classes at SoftUni, but it can be used a general-purpose data structure library for any .NET project. Later (in 2021) it was adapted for the .NET Standard to allow usage from all .NET platforms.
 
 This library was originally produced by Wintellect and is offered AS IS. It has been available on the Wintellect site for some time, later moved to Codeplex to encourage its growth and use, and then it was lost with the shutdown of Codeplex. Power Collections is free for all to use within the bounds of the standard Eclipse Public License (EPL).
 
-The code is originally written by Peter Golde (at Wintellect, in the period 2004-2007), then evolved in the open-source community.
+The code was originally written by Peter Golde (at Wintellect, in the period 2004-2007), then evolved in the open-source community.
